@@ -39,13 +39,13 @@
   <h1>📋 Projects</h1>
   <p>
       <span>
-        <p><b>👉 <a href="https://github.com/delayrae/delayrae">Personal Portfolio</a> - </b> My very own personal portfolio</p>
+        <p><b>👉❌ <a href="https://github.com/delayrae/delayrae">Personal Portfolio</a> - </b> My very own personal portfolio</p>
       </span>
       <span>
-        <p><b>👉 <a href="https://github.com/delayrae/delayrae">Techno-Portfolio</a> - </b> Portfolio for a fictional Techno Artist from Berlin</p>
+        <p><b>👉❌ <a href="https://github.com/delayrae/delayrae">Techno-Portfolio</a> - </b> Portfolio for a fictional Techno Artist from Berlin</p>
       </span>
       <span>
-        <p><b>👉 <a href="https://github.com/delayrae/taskmanagement">Tasker</a> - </b> Advanced task management system for enterprises</p>
+        <p><b>👉❌ <a href="https://github.com/delayrae/taskmanagement">Tasker</a> - </b> Advanced task management system for enterprises</p>
       </span>
   </p>
 </div>
