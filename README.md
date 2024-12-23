@@ -1,16 +1,55 @@
-## Hi there 👋
+<div>
+  <h1>👋 Hello,</h1>
+  <p>
+    I'm <b>delayrae</b>, a European fullstack developer passionate about <b>combining</b>
+    <br /> 
+    creativity <b>and</b> technical expertise to build <b>top-notch</b> solutions. <a href="https://github.com/delayrae/delayrae">More</a>
+  </p>
+</div>
 
-<!--
-**delayrae/delayrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h1>💻 Tech Stack</h1>
+  <p>
+    <!-- HTML, CSS, TAILWIND -->
+    <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+    <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
+    <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+    <br />
+    <!-- PYTHON, JS, TS -->
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+    <br />
+    <!-- REACT, NEXT, EXPRESS -->
+    <a href="https://react.dev/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
+    <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/></a>
+    <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/></a>
+    <br />
+    <!-- APPWRITE, MONGODB -->
+    <a href="https://appwrite.io/"><img src="https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white"/></a>
+    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+    <br />
+    <!-- DOCKER, NGINX -->
+    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
+    <a href="https://nginx.org/en/"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/></a>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <h1>📋 Projects</h1>
+  <p>
+      <span>
+        <p><b>👉 <a href="https://github.com/delayrae/delayrae">Personal Portfolio</a> - </b> My very own personal portfolio</p>
+      </span>
+      <span>
+        <p><b>👉 <a href="https://github.com/delayrae/delayrae">Techno-Portfolio</a> - </b> Portfolio for a fictional Techno Artist from Berlin</p>
+      </span>
+      <span>
+        <p><b>👉 <a href="https://github.com/delayrae/taskmanagement">Tasker</a> - </b> Advanced task management system for enterprises</p>
+      </span>
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h6>Made with ❤️ by <a href="https://github.com/delayrae/delayrae">delayrae</a></h6>
+</div>
