@@ -1,5 +1,5 @@
 <div>
-  <h1>👋 Hello,</h1>
+  <h1>👋 Hello there</h1>
   <p>
     I'm <b>delayrae</b>, a European fullstack developer passionate about <b>combining</b>
     <br /> 
