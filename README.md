@@ -42,7 +42,7 @@
         <p><b>👉❌ <a href="https://github.com/delayrae/delayrae">Personal Portfolio</a> - </b> My very own personal portfolio</p>
       </span>
       <span>
-        <p><b>👉❌ <a href="https://github.com/delayrae/delayrae">Techno-Portfolio</a> - </b> Portfolio for a fictional Techno Artist from Berlin</p>
+        <p><b>👉 <a href="https://github.com/delayrae/techno-portfolio">Techno-Portfolio</a> - </b> Portfolio for a fictional Techno Artist from Berlin</p>
       </span>
       <span>
         <p><b>👉 <a href="https://github.com/delayrae/taskmanagement">Task management</a> - </b> Advanced task management system for enterprises</p>
