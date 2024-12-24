@@ -1,5 +1,5 @@
 <div>
-  <h1>👋 Hello there</h1>
+  <h1>👋 About</h1>
   <p>
     I'm <b>delayrae</b>, a European fullstack developer passionate about <b>combining</b>
     <br /> 
@@ -8,7 +8,7 @@
 </div>
 
 <div>
-  <h1>💻 Tech Stack</h1>
+  <h1>💻 Skills</h1>
   <p>
     <!-- HTML, CSS, TAILWIND -->
     <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
