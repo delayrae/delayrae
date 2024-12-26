@@ -3,7 +3,7 @@
   <p>
     I'm <b>delayrae</b>, a European fullstack developer passionate about <b>combining</b>
     <br /> 
-    creativity <b>and</b> technical expertise to build <b>top-notch</b> solutions. <a href="https://delayrae.github.io/">More</a>
+    creativity <b>and</b> technical expertise to build <b>top-notch</b> solutions.
   </p>
 </div>
 
@@ -38,9 +38,6 @@
 <div>
   <h1>📋 Projects</h1>
   <p>
-      <span>
-        <p><b>👉 <a href="https://github.com/delayrae/delayrae.github.io">Personal Portfolio</a> - </b> My very own personal portfolio</p>
-      </span>
       <span>
         <p><b>👉 <a href="https://github.com/delayrae/techno-portfolio">Techno-Portfolio</a> - </b> Portfolio for a fictional Techno Artist from Berlin</p>
       </span>
