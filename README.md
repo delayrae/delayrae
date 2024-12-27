@@ -36,8 +36,11 @@
 </div>
 
 <div>
-  <h1>📋 Projects</h1>
+  <h1>📋 Top Projects</h1>
   <p>
+      <span>
+        <p><b>👉 <a href="https://github.com/delayrae/currency-converter">Currency converter</a> - </b> Currency converter with tons of features</p>
+      </span>
       <span>
         <p><b>👉 <a href="https://github.com/delayrae/techno-portfolio">Techno-Portfolio</a> - </b> Portfolio for a fictional Techno Artist from Berlin</p>
       </span>
